@@ -99,10 +99,13 @@ hr {
    
     .autora { display: none;
     }
+    body {
+        width: 100%;
+    }
     .menu { display: inline-block;
             margin-left: 100px;
             padding: 5px;
-            width: 31,5px; 
+            width: 33,5px; 
     }
 }
 
